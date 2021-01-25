@@ -3,4 +3,4 @@
 
 
 
-![](images/poster.jpeg)
+![](image/poster.jpeg)
